@@ -1,0 +1,87 @@
+.parent {
+	height: 100%;
+	width: 100%;
+	display: flex;
+	align-items: center;
+}
+
+h1 {
+	color: #ffffff;
+	text-align: left;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 55px;
+	position: relative;
+	z-index: 0;
+}
+
+body {
+	color: #ffffff;
+	text-align: left;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 30px;
+	position: relative;
+	z-index: 0;
+}
+
+.one {
+ 	position: relative;
+ 	left: 0px;
+ 	top: 0px;
+ 	z-index: -1;
+}
+
+.two {
+ 	position: relative;
+ 	left: 0px;
+ 	top: 0px;
+ 	z-index: -2;
+}
+
+.three {
+ 	position: relative;
+ 	left: 0px;
+ 	top: 0px;
+ 	z-index: -3;
+}
+
+.four {
+ 	position: relative;
+ 	left: 0px;
+ 	top: 0px;
+ 	z-index: -4;
+}
+
+.five {
+ 	position: relative;
+ 	left: 0px;
+ 	top: 0px;
+ 	z-index: -5;
+}
+
+.six {
+ 	position: relative;
+ 	left: 0px;
+ 	top: 0px;
+ 	z-index: -6;
+}
+
+.seven {
+ 	position: relative;
+ 	left: 0px;
+ 	top: 0px;
+ 	z-index: -7;
+}
+
+.eight {
+ 	position: relative;
+ 	left: 0px;
+ 	top: 0px;
+ 	z-index: -8;
+}
+
+.back {
+ 	position: relative;
+ 	left: 0px;
+ 	top: 0px;
+ 	z-index: -9;
+}
